@@ -1,4 +1,4 @@
-# Advance_Shopping_cart
+
 Advanced Shopping Cart Tutorial With Php and MySqli Database
 
 Before you execute this project make sure you insert values in the database.
